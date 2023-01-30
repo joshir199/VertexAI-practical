@@ -1,2 +1,2 @@
 # vertexai-practical
-Practical use cases of Aertex AI
+Practical use cases of Vertex AI
